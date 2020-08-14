@@ -5,7 +5,7 @@
 MCUFRIEND_kbv tft;
 #include <TouchScreen.h>
 #include <ArduinoJson.h>
-#define MINPRESSURE 200
+#define MINPRESSURE 400
 #define MAXPRESSURE 1000
 
 // ALL Touch panels and wiring is DIFFERENT
@@ -72,7 +72,7 @@ void setup(void)
     tft.fillScreen(BLACK);
     
     // bottom text
-    String text = "AkiPad v1.0";
+    String text = "CowPad v1.0";
     tft.setCursor(0, tft.height()-10);
     tft.print(text);
 }
