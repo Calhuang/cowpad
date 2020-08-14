@@ -4,6 +4,8 @@
 
 A program for a macropad functionality built with an Arduino MEGA 2560 and a TFT resistive touchscreen.
 
+Sends keypresses based on button press.
+
 ## component list
 
 - Arduino MEGA 2560
@@ -17,6 +19,8 @@ A program for a macropad functionality built with an Arduino MEGA 2560 and a TFT
 2. plug in the pad and run the python script.
 
 ## configuration settings
+
+- IMPORTANT: edit the settings.json file to customize your macros.
 
 - Remember to install the libraries specified on the top of the .ino file.
 
