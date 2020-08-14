@@ -1,0 +1,53 @@
+{
+	"page1": {
+		"name": "browser",
+		"button1": {
+			"name": "new tab",
+			"macro": "ctrl+t"
+		},
+		"button2": {
+			"name": "refresh",
+			"macro": "F5"
+		},
+		"button3": {
+			"name": "del tab",
+			"macro": "ctrl+w"
+		}
+	},
+	"page2":{
+		"name": "youtube",
+		"button1": {
+			"name": "<<",
+			"macro": "left"
+		},
+		"button2": {
+			"name": "play/pause",
+			"macro": "space"
+		},
+		"button3": {
+			"name": ">>",
+			"macro": "right"
+		},
+		"button4": {
+			"name": "vol -",
+			"macro": "down"
+		},
+		"button5": {
+			"name": "un/mute",
+			"macro": "m"
+		},
+		"button6": {
+			"name": "vol +",
+			"macro": "up"
+		}
+	},
+	"page3":{
+		"name": "-"
+	},
+	"page4":{
+		"name": "-"
+	},
+	"page5":{
+		"name": "-"
+	}
+}
