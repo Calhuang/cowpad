@@ -7,3 +7,9 @@ A program for a macropad functionality built with an Arduino MEGA 2560 and a TFT
 - Arduino MEGA 2560
  
 - 3.95" inch 480*320 TFT Touch LCD Module Screen Display Panel ST7796S Controller
+
+## instructions
+
+1. flash cowpad.ino to your arduino.
+
+2. plug in the pad and run the python script.
