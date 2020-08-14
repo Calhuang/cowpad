@@ -1,6 +1,6 @@
 # cowpad
 
-[photo](images/cowpad.jpg)
+![photo](images/cowpad.jpg)
 
 A program for a macropad functionality built with an Arduino MEGA 2560 and a TFT resistive touchscreen.
 
